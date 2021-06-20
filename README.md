@@ -1,1 +1,2 @@
 # Calculator
+Masih belum responsive
